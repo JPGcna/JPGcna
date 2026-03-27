@@ -24,7 +24,6 @@ body {
 
 .page-navs {
     font-family: 'Inter';
-    text-decoration: none;
     background-color: #272727;
     border-radius: 10px;
 }
@@ -32,4 +31,5 @@ body {
 .page-navs a {
     margin-right: 20px;
     margin-left: 20px;
+    text-decoration: none;
 }
