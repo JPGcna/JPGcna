@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.pillarmenpose {   
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.pillarmenaudio {
+    display: block;
+    margin: 0 auto;
+}
