@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦 Student | Web Developer<br>🌱 Learning FrontEnd and BackEnd Web Development<br>🔭 Juan Pablo Gecana @ LinkedIn
+👦 Student<br>🌱 Learning FrontEnd and BackEnd Web Development<br>🔭 Juan Pablo Gecana @ LinkedIn
 
 
 # 💻 Tech Stack:
